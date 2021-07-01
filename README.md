@@ -13,6 +13,7 @@ Minimal programs to show each new java feature
 * module
 
 ### jdk 10
+* var type inference
 * unmodifiable collections
 
 https://www.oracle.com/java/technologies/javase/10-relnote-issues.html
