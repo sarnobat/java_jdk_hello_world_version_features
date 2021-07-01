@@ -16,3 +16,6 @@ Minimal programs to show each new java feature
 * unmodifiable collections
 
 https://www.oracle.com/java/technologies/javase/10-relnote-issues.html
+
+### jdk 14
+* jpackage
