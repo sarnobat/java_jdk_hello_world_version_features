@@ -4,7 +4,7 @@ Minimal programs to show each new java feature
 
 ### jdk 8
 * lambda
-** function composition 
+    * function composition 
 * stream
 
 
@@ -23,3 +23,14 @@ https://www.oracle.com/java/technologies/javase/10-relnote-issues.html
 
 ### jdk 14
 * jpackage
+* Tuples
+
+### jdk 15
+* sealed class
+
+### jdk 16
+* Record
+
+
+## See also
+* https://en.wikipedia.org/wiki/Java_version_history
