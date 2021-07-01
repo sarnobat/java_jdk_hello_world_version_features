@@ -18,5 +18,8 @@ Minimal programs to show each new java feature
 
 https://www.oracle.com/java/technologies/javase/10-relnote-issues.html
 
+### jdk 13
+* multiline strings
+
 ### jdk 14
 * jpackage

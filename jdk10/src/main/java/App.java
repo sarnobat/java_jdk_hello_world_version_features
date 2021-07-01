@@ -6,7 +6,7 @@ import java.util.stream.*;
 public class App {
 
     public static void main(String[] args) {
-var collect = Stream.of(42)
-  .collect(Collectors.toUnmodifiableList());
+		var collect = Stream.of(42).collect(Collectors.toUnmodifiableList());
+		System.out.println(collect);
 	}
 }
