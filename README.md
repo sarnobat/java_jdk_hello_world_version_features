@@ -1,12 +1,14 @@
 # java_hello_world_version_features
-Minimal programs to show each new java feature
+Minimal programs to show each new java feature (syntax and libraries more than JVM features)
 
+### TODO
+* Future
+* ConcurrentHashMap putIfAbsent
 
 ### jdk 8
 * lambda
     * function composition 
 * stream
-
 
 ### jdk 9
 * jlink
@@ -17,6 +19,9 @@ Minimal programs to show each new java feature
 * unmodifiable collections
 
 https://www.oracle.com/java/technologies/javase/10-relnote-issues.html
+
+### jdk12
+* switch statement for single assignment
 
 ### jdk 13
 * multiline strings
