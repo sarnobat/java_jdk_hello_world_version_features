@@ -1,4 +1,5 @@
 // Note: gradlle 4.8.1 won't work
+// TODO: Use badass RUNTIME plugin, not badass jlink plugin (the latter needs to have modular libraries)
 
 plugins {
     id "org.beryx.jlink" version "2.16.4"
