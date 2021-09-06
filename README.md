@@ -22,6 +22,8 @@ https://www.oracle.com/java/technologies/javase/10-relnote-issues.html
 
 ### jdk 11
 * run single file without compilation
+* New Library Methods for Strings, Collections, and Files
+
 
 ### jdk12
 * switch statement for single assignment
