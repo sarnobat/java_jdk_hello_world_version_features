@@ -22,6 +22,7 @@ https://www.oracle.com/java/technologies/javase/10-relnote-issues.html
 
 ### jdk 11
 * run single file without compilation
+** `/Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/bin/java Test.java`
 * New Library Methods for Strings, Collections, and Files
 
 
