@@ -4,6 +4,7 @@ Minimal programs to show each new java feature (syntax and libraries more than J
 ### TODO
 * Future
 * ConcurrentHashMap putIfAbsent
+* Fiber
 
 ### jdk 8
 * lambda
