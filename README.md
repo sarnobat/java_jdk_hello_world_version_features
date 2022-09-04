@@ -6,6 +6,20 @@ Minimal programs to show each new java feature (syntax and libraries more than J
 * ConcurrentHashMap putIfAbsent
 * Fiber
 
+### jdk 1.4
+
+### jdk 5
+* generics
+* autoboxing
+* variable number of args
+* for each
+* static imports
+* concurrent classes
+
+
+### jdk 7
+* nio
+
 ### jdk 8
 * lambda
     * function composition 
@@ -26,7 +40,7 @@ https://www.oracle.com/java/technologies/javase/10-relnote-issues.html
 * New Library Methods for Strings, Collections, and Files
 
 
-### jdk12
+### jdk 12
 * switch statement for single assignment
 
 ### jdk 13
