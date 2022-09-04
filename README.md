@@ -8,19 +8,25 @@ Minimal programs to show each new java feature (syntax and libraries more than J
 
 ### jdk 1.4
 
-### jdk 5
-* generics
+### jdk 5: Type safety
+* generics `<String>`
+* annotations `@`
 * autoboxing
-* variable number of args
+* variable number of args `...`
 * for each
-* static imports
-* concurrent classes
+* `import static`
+* concurrent classes (e.g. `ConcurrentHashMap`, `AtomicInteger`)
 
+### jdk6
+* jax-ws
 
-### jdk 7
+### jdk 7: I/O
 * nio
-
-### jdk 8
+* try-with-resources
+* switch for String
+* type inference `<>`
+* 
+### jdk 8: 
 * lambda
     * function composition 
 * stream
