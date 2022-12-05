@@ -66,3 +66,34 @@ https://www.oracle.com/java/technologies/javase/10-relnote-issues.html
 ## See also
 * https://en.wikipedia.org/wiki/Java_version_history
 * https://advancedweb.hu/new-language-features-since-java-8-to-18/
+
+# Binaries
+
+* jar
+* jarsigner
+* java
+* javac
+* javadoc
+* javap
+* jcmd
+* jconsole
+* jdb
+* jdeprscan
+* jdeps
+* jfr
+* jhsdb
+* jimage
+* jinfo
+* jlink
+* jmap
+* jmod
+* jpackage
+* jps
+* jrunscript
+* jshell
+* jstack
+* jstat
+* jstatd
+* keytool
+* rmiregistry
+* serialver
