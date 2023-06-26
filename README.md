@@ -19,6 +19,7 @@ Minimal programs to show each new java feature (syntax and libraries more than J
 
 ### jdk6
 * jax-ws
+* javax.scripting
 
 ### jdk 7: I/O
 * nio
