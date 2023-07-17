@@ -98,3 +98,19 @@ https://www.oracle.com/java/technologies/javase/10-relnote-issues.html
 * keytool
 * rmiregistry
 * serialver
+
+## Open Source Projects worth contributing to
+(It could just be documentation)
+
+| name | |
+|-----|----|
+| log4j | |
+| jersey | |
+| eureka | |
+| xstream | |
+
+
+> Lastly, if you find something is unclear or missing, many projects are happy to accept contributions, especially to documentation. The project leads are often people with regular day jobs and other priorities, so they may not respond right away, but this is the best way to help everyone
+succeed and to uncover the “magic” for the next generation of users.
+ (from book https://www.amazon.com/Things-Every-Java-Programmer-Should/dp/1491952695 )
+
