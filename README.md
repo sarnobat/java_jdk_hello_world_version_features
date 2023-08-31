@@ -114,3 +114,5 @@ https://www.oracle.com/java/technologies/javase/10-relnote-issues.html
 succeed and to uncover the “magic” for the next generation of users.
  (from book https://www.amazon.com/Things-Every-Java-Programmer-Should/dp/1491952695 )
 
+## Career tips
+Contribute to a project that uses Kafka since you need experience with that for java jobs.
