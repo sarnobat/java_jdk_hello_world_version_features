@@ -65,6 +65,7 @@ https://www.oracle.com/java/technologies/javase/10-relnote-issues.html
 
 
 ## See also
+* 2025-01: https://dev.to/brilworks/whats-changed-in-java-versions-13io?utm_source=pocket_shared
 * https://en.wikipedia.org/wiki/Java_version_history
 * https://advancedweb.hu/new-language-features-since-java-8-to-18/
 
