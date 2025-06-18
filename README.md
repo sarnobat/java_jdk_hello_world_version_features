@@ -31,6 +31,7 @@ Minimal programs to show each new java feature (syntax and libraries more than J
 * lambda
     * function composition 
 * stream
+    * good article: https://stackify.com/streams-guide-java-8/
 
 ### jdk 9
 * jlink
